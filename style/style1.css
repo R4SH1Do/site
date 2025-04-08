@@ -1,0 +1,146 @@
+.big-cont{
+    background-color: #5d6b7d;
+    width: 335px;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+}
+header{
+
+}
+.sprite{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    padding: 0;
+}
+li{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.sprite ul{
+    list-style: none;
+    display: flex;
+    gap: 85px;
+    justify-content: space-between;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sprite img{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.img-nike{
+    margin-bottom: 15px;
+}
+
+.button button{
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    color: #5d6b7d;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.promo{
+    background-color: #344254;
+    border-radius: 20px;
+    padding: 15px;
+}
+.promo h2{
+    color: white;
+    margin: 0;
+    font-weight: 800;
+}
+.promo h1{
+    color: white;
+    font-weight: 800;
+    font-size: 30px;
+    margin: 0;
+}
+.promo button{
+    background-color:#fc783f;
+    width: 120px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    color: #344254;
+    font-weight: 800;
+    margin-top: 5px;
+}
+.promo img{
+    margin-left: 30px;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+}
+.text h2{
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+.text p{
+    font-weight: 600;
+    color: #a7b1be;
+    height: 28px;
+    margin-bottom: 15px;
+    margin-top: 29px;
+}
+.market1{
+    background-color: white;
+    color: #475f7d;
+    padding: 5px;
+    border-radius: 25px;
+}
+.market1 h2{
+    font-size: 40px;
+    margin: 10px 0 0 10px;
+}
+.market1 h3{
+    font-size: 20px;
+    text-align: center;
+}
+.market1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.market2{
+    background-color: white;
+    color: #475f7d;
+    padding: 5px;
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.market2 h2{
+    font-size: 40px;
+    margin: 10px 0 0 10px;
+}
+.market2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
